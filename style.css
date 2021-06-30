@@ -14,7 +14,7 @@ body {
 
 header {
   height: calc(100vh - 150px);
-  background: url("/img/header.jpg") no-repeat center/cover;
+  background: url("assets/img/header.jpg") no-repeat center/cover;
   max-width: 100%;
 }
 
