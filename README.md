@@ -62,4 +62,4 @@ Você pode acessar o projeto clicando <a href="https://vaniamesquita.me/site-via
 [![Gmail Badge](https://img.shields.io/badge/-vaniasalesm@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaniasalesm@gmail.com)](mailto:vaniasalesm@gmail.com)<br>
 
 
-<p align="center"> <img alt="APM badge" src="https://img.shields.io/badge/license-MIT-green"></p>
+<p align="center"> <img alt="APM badge" src="https://img.shields.io/github/license/vaniamesquita/site-viagem"></p>
