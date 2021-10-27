@@ -12,13 +12,13 @@ Esse projeto foi desenvolvido acompanhando o projeto feito pela Isadora em seu y
 Durante o projeto, criamos um site de uma agência de turismo. Por ser um projeto onde utilizamos apenas HTML e CSS, o site é estático, porém foi de grande importância para treinar e colocar alguns conceitos em prática, como **flexbox**, **animações** e **media queries**.
 
 
-#### Acesse o site completo: <a href="https://vaniamesquita.me/site-viagem/" target="_blank">vaniamesquita.me/site-viagem</a> 
+#### Acesse o site completo: <a href="https://site-viagem.netlify.app" target="_blank">https://site-viagem.netlify.app</a> 
 
 ---
 
 ## Layout
 
-Você pode acessar o projeto clicando <a href="https://vaniamesquita.me/site-viagem/" target="_blank">aqui</a>
+Você pode acessar o projeto clicando <a href="https://site-viagem.netlify.app" target="_blank">aqui</a>
 
 
 #### <p align="center">Web</p>
